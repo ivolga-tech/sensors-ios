@@ -4,10 +4,16 @@
 
 ### CocoaPods
 
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate MobileSensors into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
+.....
+source 'https://github.com/ivolga-tech/sensors-ios' # for MobileSensors
+source 'https://cdn.cocoapods.org/' # for dependencies of MobileSensors
+
+.....
 pod 'MobileSensors', :source => 'https://github.com/ivolga-tech/sensors-ios'
+.....
 ```
 ## Usage
 
