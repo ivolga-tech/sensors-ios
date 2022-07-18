@@ -22,7 +22,7 @@ pod 'MobileSensors', :source => 'https://github.com/ivolga-tech/sensors-ios'
 ```swift
 MobileSensorsSDK.setRemoteHost(_ host: Host)
 ```
-Sets host for receiving data.
+Sets host for receiving data in the form like "https://example.com".
 
 ```swift
 MobileSensorsSDK.start()
