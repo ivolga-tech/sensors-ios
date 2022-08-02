@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CKFwBxR2GWYNL28xEbVVR6YNFJ0=
+		JwbvoDngP4rx8aObvWPm38xhFHA=
 		</data>
 		<key>Modules/MobileSensors.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/MobileSensors.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uyzo/6NC2dgF5Nzjh9/l9y0sq/E=
+		DOnvmXCMBpT3JRMlFLfrpLeqtCU=
 		</data>
 		<key>Modules/MobileSensors.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MobileSensors.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g8778FEFeeMX19Z/ZFgbmdw6AL8=
+		Mv2rOxQ+fpE62RivblWfqYZJ+Ro=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6R17t8Pbmpdak1z9E1sRvShs4ayyBjOJU9onMf5M7wE=
+			mPRrInn6QDNuIBiOF2xqfFxllzLRIeoH2XIiW1++SQc=
 			</data>
 		</dict>
 		<key>Modules/MobileSensors.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiDsTDdtmP0Z/PzVRhSnCfHBrlj4B26WHf9iz1J2pAo=
+			MTKpZFzl+ZiqabBdNrwDyBFP6lHXX+sMcU6T35iAPQs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
