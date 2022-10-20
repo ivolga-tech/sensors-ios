@@ -6,6 +6,6 @@ framework module MobileSensors {
 }
 
 module MobileSensors.Swift {
-    header "MobileSensors-Swift.h"
-    requires objc
+  header "MobileSensors-Swift.h"
+  requires objc
 }
