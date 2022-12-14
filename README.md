@@ -1,4 +1,4 @@
-# MobileSensors
+# HumanSignals
 
 ## Installation
 
