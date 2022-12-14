@@ -37,6 +37,11 @@ Stops data flow.
 ### Capture user events/actions
 
 ```swift
+HumanSignalsSDK.initTracker(host: String, apiKey: String)
+```
+Initialises events tracker with provided host server address and unique api key.
+
+```swift
 HumanSignalsSDK.identifyUser(uniqueID: String)
 ```
 Helps to identify one's app user with its events.
