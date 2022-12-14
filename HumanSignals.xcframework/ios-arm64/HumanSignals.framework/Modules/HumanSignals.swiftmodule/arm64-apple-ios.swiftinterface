@@ -1,0 +1,34 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name HumanSignals
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CoreLocation
+import CoreMotion
+import Foundation
+@_exported import HumanSignals
+import PostHog
+import Swift
+import UIKit.UIDevice
+import UIKit
+import _Concurrency
+import _StringProcessing
+public protocol Host {
+  var url: Foundation.URL { get }
+}
+public struct HumanSignalsSDK {
+}
+extension HumanSignals.HumanSignalsSDK {
+  public static func initTracker(host: Swift.String, apiKey: Swift.String)
+  public static func identifyUser(uniqueID: Swift.String)
+  public static func resetUser()
+  public static func captureEnteraction(name: Swift.String, properties: [Swift.String : Any]? = nil)
+  public static func captureScreen(_ screenTitle: Swift.String, properties: [Swift.String : Any]? = nil)
+  public static func flushQueuedEvents()
+  public static func enableTracking()
+  public static func disableTracking()
+}
+extension HumanSignals.HumanSignalsSDK {
+  public static func start()
+  public static func stop()
+  public static func setRemoteHost(_ host: HumanSignals.Host)
+}

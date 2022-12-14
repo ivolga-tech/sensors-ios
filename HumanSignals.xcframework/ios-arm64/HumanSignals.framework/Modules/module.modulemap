@@ -1,0 +1,11 @@
+framework module HumanSignals {
+  umbrella header "HumanSignals.h"
+
+  export *
+  module * { export * }
+}
+
+module HumanSignals.Swift {
+  header "HumanSignals-Swift.h"
+  requires objc
+}
