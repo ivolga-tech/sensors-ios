@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/HumanSignals-Swift.h</key>
 		<data>
-		IPt39VPpHPsVxcaGZH665syGV9k=
+		bFGVoOc6yB2nbZBngKLcQAvaTJo=
 		</data>
 		<key>Headers/HumanSignals.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KjK/tjk4nMddDUi1jYg3qMPOSLc=
+		RCp63sneoyFHhh14835R9GW9mBU=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		m8jc+gHnELfR/rTHc5XPFKTFRFE=
+		t3kAQ+Dt1pIPyLuXuS5OM5RnQIE=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5CtLrpgBsHjaqoefmykVOYMHs+0=
+		jGMBQf2OIsR2jQHpVrZbBtuHEfY=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		NoiYL2XeUEVs0kyOavE4c8cX8VA=
+		IPmVq3Fpie0TwSCJQtdBA5Z6y8I=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5CtLrpgBsHjaqoefmykVOYMHs+0=
+		jGMBQf2OIsR2jQHpVrZbBtuHEfY=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NnvJZdot16aKeoZWTjR833IP0+A=
+		KhuE7kTov/hsKewyGM7DeZZGepk=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		m8jc+gHnELfR/rTHc5XPFKTFRFE=
+		t3kAQ+Dt1pIPyLuXuS5OM5RnQIE=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lFdwKBIrjP9T9i93j+NN/Op9Hj0=
+		yoeXquVoFAfsqmIOal2tkKu+/3E=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		v5EpLreGDAAuUnP/mlVqODbsRws=
+		q7NeH3WHzWPUuetOay1w/QHiu8g=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lFdwKBIrjP9T9i93j+NN/Op9Hj0=
+		yoeXquVoFAfsqmIOal2tkKu+/3E=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z3519H2Ndl3Kw54fZGXAGJ9+ta8=
+		P8L8HfBqkeFunclYEoXctyuzF+s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1mRx2LrgTVuk6a2wLOPHyw+H58OOvzINCiMg2aNedY=
+			zipM3f2w73DS1gyOOeKkGgIIWilAKa6mp0cYQUt0GJs=
 			</data>
 		</dict>
 		<key>Headers/HumanSignals.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jn4F98vRJCxxQ6FV1+b+/ordqfiruR5w7AD/ss0k2/M=
+			96vUzLjVp1D5ExItMxN5H9LtJ6fApJFTM0Av6MrowJM=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kLrbWybvQnvBo23PwmR4WtToKmlboYYPIL50CpHZP8=
+			by5HGA8gUbg67j8BnmtwuEZyfXYlUfOpxIxdmxmhd4c=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qEbciAl/VOctEAr0o3D4aYJV86C5CR8rpWp7FGM8ihQ=
+			gHDqhTSBmCGrepeYu6VJuwUSWrPHi/aY93b7z6TkYio=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kLrbWybvQnvBo23PwmR4WtToKmlboYYPIL50CpHZP8=
+			by5HGA8gUbg67j8BnmtwuEZyfXYlUfOpxIxdmxmhd4c=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VCVIm5QcFzCtT5fI0mqtyWEPsnKDx8T4hB+uEKEMRVM=
+			iKGUNctR0C+CDaBqxYYU3DXUIsUxjsDenZ6SMwAKW/k=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jn4F98vRJCxxQ6FV1+b+/ordqfiruR5w7AD/ss0k2/M=
+			96vUzLjVp1D5ExItMxN5H9LtJ6fApJFTM0Av6MrowJM=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Ct5dbPEtZ50VxYwkqWFeyCn1my1aZpqNh36vZqJ/SQ=
+			lFXmN3b1dFDSoUOGSkhL0Zuf3YR28fFx9jQ8yaMCVBU=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jwoVZDNvHAEiEKcIlZH2NDbBFtJP/2BzRffoTSdUOHY=
+			fU0p4+p9ZEOuGGBHxVlSetk7bLvrCNel59D3Z4eaT1k=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Ct5dbPEtZ50VxYwkqWFeyCn1my1aZpqNh36vZqJ/SQ=
+			lFXmN3b1dFDSoUOGSkhL0Zuf3YR28fFx9jQ8yaMCVBU=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y2JJTqgOn9uYQQr5pPetAQffXy1z44Wip0J7BtqrcJQ=
+			eWbLO8CqkGdUsj0iX+GE7bseMVoRhj1uhJYrsVpCOW4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

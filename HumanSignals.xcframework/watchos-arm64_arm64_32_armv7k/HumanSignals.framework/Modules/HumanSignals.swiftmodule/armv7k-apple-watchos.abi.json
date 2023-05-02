@@ -16,91 +16,6 @@
       },
       {
         "kind": "Import",
-        "name": "CoreMotion",
-        "printedName": "CoreMotion",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "HumanSignals"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "PostHog",
-        "printedName": "PostHog",
-        "declKind": "Import",
-        "moduleName": "HumanSignals"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CommonCrypto",
-        "printedName": "CommonCrypto",
-        "declKind": "Import",
-        "moduleName": "HumanSignals"
-      },
-      {
-        "kind": "Import",
-        "name": "PostHog",
-        "printedName": "PostHog",
-        "declKind": "Import",
-        "moduleName": "HumanSignals"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "HumanSignals"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -176,6 +91,83 @@
         "moduleName": "HumanSignals",
         "declAttributes": [
           "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WatchKit",
+        "printedName": "WatchKit",
+        "declKind": "Import",
+        "moduleName": "HumanSignals"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HumanSignals",
+        "declAttributes": [
           "RawDocComment"
         ]
       },
@@ -550,38 +542,8 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "HumanSignals",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "CoreMotion",
+        "printedName": "CoreMotion",
         "declKind": "Import",
         "moduleName": "HumanSignals",
         "declAttributes": [
@@ -613,279 +575,6 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Motion\/Attitude.swift",
-      "kind": "FloatLiteral",
-      "offset": 178,
-      "length": 5,
-      "value": "180.0"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "FloatLiteral",
-      "offset": 203,
-      "length": 5,
-      "value": "0.033"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 429,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "FloatLiteral",
-      "offset": 2051,
-      "length": 4,
-      "value": "10.0"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2066,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "StringLiteral",
-      "offset": 3083,
-      "length": 21,
-      "value": "\"GravityAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "StringLiteral",
-      "offset": 3299,
-      "length": 18,
-      "value": "\"UserAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "FloatLiteral",
-      "offset": 4414,
-      "length": 4,
-      "value": "10.0"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4429,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
-      "kind": "StringLiteral",
-      "offset": 4982,
-      "length": 19,
-      "value": "\"TotalAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
-      "kind": "StringLiteral",
-      "offset": 187,
-      "length": 20,
-      "value": "\"posthog.distinctId\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
-      "kind": "BooleanLiteral",
-      "offset": 433,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1138,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1231,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
-      "kind": "StringLiteral",
-      "offset": 1272,
-      "length": 5,
-      "value": "\"iOS\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/CryptoSecure.swift",
-      "kind": "FloatLiteral",
-      "offset": 334,
-      "length": 3,
-      "value": "0.8"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/CryptoSecure.swift",
-      "kind": "IntegerLiteral",
-      "offset": 944,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/CryptoSecure.swift",
-      "kind": "StringLiteral",
-      "offset": 1984,
-      "length": 23,
-      "value": "\"Error: \""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/CryptoSecure.swift",
-      "kind": "StringLiteral",
-      "offset": 2006,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/RequestData.swift",
-      "kind": "StringLiteral",
-      "offset": 594,
-      "length": 39,
-      "value": "\"Error - \""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/RequestData.swift",
-      "kind": "StringLiteral",
-      "offset": 632,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Motion\/Acceleration.swift",
-      "kind": "FloatLiteral",
-      "offset": 359,
-      "length": 4,
-      "value": "9.81"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 156,
-      "length": 4,
-      "value": "\"__\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 186,
-      "length": 10,
-      "value": "\"Attitude\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 221,
-      "length": 14,
-      "value": "\"RotationRate\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 260,
-      "length": 19,
-      "value": "\"TotalAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 311,
-      "length": 21,
-      "value": "\"GravityAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 361,
-      "length": 19,
-      "value": "\"UsersAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 156,
-      "length": 4,
-      "value": "\"__\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 186,
-      "length": 10,
-      "value": "\"Attitude\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 221,
-      "length": 14,
-      "value": "\"RotationRate\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 260,
-      "length": 19,
-      "value": "\"TotalAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 311,
-      "length": 21,
-      "value": "\"GravityAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
-      "kind": "StringLiteral",
-      "offset": 361,
-      "length": 19,
-      "value": "\"UsersAcceleration\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/AnySensorData.swift",
-      "kind": "StringLiteral",
-      "offset": 949,
-      "length": 32,
-      "value": "\"Error Encoding sensorType - %@\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/AnySensorData.swift",
-      "kind": "StringLiteral",
-      "offset": 1164,
-      "length": 31,
-      "value": "\"Error Encoding timestamp - %@\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/AnySensorData.swift",
-      "kind": "StringLiteral",
-      "offset": 1380,
-      "length": 28,
-      "value": "\"Error Encoding values - %@\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/Endpoint.swift",
-      "kind": "StringLiteral",
-      "offset": 441,
-      "length": 7,
-      "value": "\"\/api\/\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/Endpoint.swift",
-      "kind": "StringLiteral",
-      "offset": 779,
-      "length": 14,
-      "value": "\"save_sensors\""
-    },
-    {
       "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/LocalHost.swift",
       "kind": "StringLiteral",
       "offset": 198,
@@ -912,6 +601,55 @@
       "offset": 600,
       "length": 27,
       "value": "\"Invalid URL in LocalHost!\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 7,
+      "value": "\"\/api\/\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/Endpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 779,
+      "length": 14,
+      "value": "\"save_sensors\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
+      "kind": "StringLiteral",
+      "offset": 292,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
+      "kind": "StringLiteral",
+      "offset": 677,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/RequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 594,
+      "length": 39,
+      "value": "\"Error - \""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/RequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 632,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Persistency\/RequestsManager.swift",
@@ -1019,6 +757,188 @@
       "value": "\"sensor_data_queue\""
     },
     {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Motion\/Attitude.swift",
+      "kind": "FloatLiteral",
+      "offset": 178,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 156,
+      "length": 4,
+      "value": "\"__\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 10,
+      "value": "\"Attitude\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 221,
+      "length": 14,
+      "value": "\"RotationRate\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 19,
+      "value": "\"TotalAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 311,
+      "length": 21,
+      "value": "\"GravityAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 19,
+      "value": "\"UsersAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 156,
+      "length": 4,
+      "value": "\"__\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 10,
+      "value": "\"Attitude\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 221,
+      "length": 14,
+      "value": "\"RotationRate\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 19,
+      "value": "\"TotalAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 311,
+      "length": 21,
+      "value": "\"GravityAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/SensorType.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 19,
+      "value": "\"UsersAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Motion\/Acceleration.swift",
+      "kind": "FloatLiteral",
+      "offset": 359,
+      "length": 4,
+      "value": "9.81"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "FloatLiteral",
+      "offset": 203,
+      "length": 5,
+      "value": "0.033"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 429,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "FloatLiteral",
+      "offset": 2051,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2066,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "StringLiteral",
+      "offset": 3083,
+      "length": 21,
+      "value": "\"GravityAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "StringLiteral",
+      "offset": 3299,
+      "length": 18,
+      "value": "\"UserAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "FloatLiteral",
+      "offset": 4414,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4429,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Motion\/Service\/CoreMotionService.swift",
+      "kind": "StringLiteral",
+      "offset": 4982,
+      "length": 19,
+      "value": "\"TotalAcceleration\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/AnySensorData.swift",
+      "kind": "StringLiteral",
+      "offset": 949,
+      "length": 32,
+      "value": "\"Error Encoding sensorType - %@\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/AnySensorData.swift",
+      "kind": "StringLiteral",
+      "offset": 1164,
+      "length": 31,
+      "value": "\"Error Encoding timestamp - %@\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/DataModels\/Base\/AnySensorData.swift",
+      "kind": "StringLiteral",
+      "offset": 1380,
+      "length": 28,
+      "value": "\"Error Encoding values - %@\""
+    },
+    {
       "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/UtilityLayer\/Extensions\/URLResponse+isOK.swift",
       "kind": "BooleanLiteral",
       "offset": 263,
@@ -1038,27 +958,6 @@
       "offset": 293,
       "length": 3,
       "value": "299"
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
-      "kind": "StringLiteral",
-      "offset": 238,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
-      "kind": "StringLiteral",
-      "offset": 292,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
-      "kind": "StringLiteral",
-      "offset": 677,
-      "length": 14,
-      "value": "\"Content-Type\""
     }
   ]
 }

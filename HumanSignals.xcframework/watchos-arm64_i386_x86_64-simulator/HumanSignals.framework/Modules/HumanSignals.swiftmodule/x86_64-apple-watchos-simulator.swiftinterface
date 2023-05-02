@@ -1,14 +1,12 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
-// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name HumanSignals
+// swift-module-flags: -target x86_64-apple-watchos6.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name HumanSignals
 // swift-module-flags-ignorable: -enable-bare-slash-regex
-import CommonCrypto
 import CoreMotion
 import Foundation
 @_exported import HumanSignals
-import PostHog
 import Swift
-import UIKit
+import WatchKit
 import _Concurrency
 import _StringProcessing
 public protocol Host {

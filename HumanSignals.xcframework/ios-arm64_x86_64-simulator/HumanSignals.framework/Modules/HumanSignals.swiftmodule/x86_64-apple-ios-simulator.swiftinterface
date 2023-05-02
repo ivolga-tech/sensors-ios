@@ -1,14 +1,13 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name HumanSignals
 // swift-module-flags-ignorable: -enable-bare-slash-regex
-import CoreLocation
+import CommonCrypto
 import CoreMotion
 import Foundation
 @_exported import HumanSignals
 import PostHog
 import Swift
-import UIKit.UIDevice
 import UIKit
 import _Concurrency
 import _StringProcessing
@@ -30,5 +29,5 @@ extension HumanSignals.HumanSignalsSDK {
 extension HumanSignals.HumanSignalsSDK {
   public static func start()
   public static func stop()
-  public static func setRemoteHost(_ host: HumanSignals.Host)
+  public static func setRemoteHost(_ host: any HumanSignals.Host)
 }
