@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		t3kAQ+Dt1pIPyLuXuS5OM5RnQIE=
+		NXvsXxXPuhDbsVrp4du+ksvsg5c=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		t3kAQ+Dt1pIPyLuXuS5OM5RnQIE=
+		NXvsXxXPuhDbsVrp4du+ksvsg5c=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			96vUzLjVp1D5ExItMxN5H9LtJ6fApJFTM0Av6MrowJM=
+			Ao6t3k2hfloWxpAN3yG3weWrImCm04h/fzpLS+JxqlI=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			96vUzLjVp1D5ExItMxN5H9LtJ6fApJFTM0Av6MrowJM=
+			Ao6t3k2hfloWxpAN3yG3weWrImCm04h/fzpLS+JxqlI=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

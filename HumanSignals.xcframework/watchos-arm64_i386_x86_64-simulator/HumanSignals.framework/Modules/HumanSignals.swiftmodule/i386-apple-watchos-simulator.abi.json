@@ -638,6 +638,13 @@
       "value": "\"Content-Type\""
     },
     {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 10,
+      "value": "\"EMPTY!!!\""
+    },
+    {
       "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/RequestData.swift",
       "kind": "StringLiteral",
       "offset": 594,

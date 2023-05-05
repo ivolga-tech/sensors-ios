@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		67/mcGXrdR1xn4GaUbchlDqBTgo=
+		u2SMw8wZ32Udd14ieZ+tICAJa1Y=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<data>
-		67/mcGXrdR1xn4GaUbchlDqBTgo=
+		u2SMw8wZ32Udd14ieZ+tICAJa1Y=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		67/mcGXrdR1xn4GaUbchlDqBTgo=
+		u2SMw8wZ32Udd14ieZ+tICAJa1Y=
 		</data>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OYjMYfa2QeS+jFcP/znCNvRJ32/YJuKfhYxRqHK/S7Y=
+			ffWER5SyBFo+bC1g4UHzHr7QgwR8VfDpAHowijnxPhI=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -136,7 +136,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OYjMYfa2QeS+jFcP/znCNvRJ32/YJuKfhYxRqHK/S7Y=
+			ffWER5SyBFo+bC1g4UHzHr7QgwR8VfDpAHowijnxPhI=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OYjMYfa2QeS+jFcP/znCNvRJ32/YJuKfhYxRqHK/S7Y=
+			ffWER5SyBFo+bC1g4UHzHr7QgwR8VfDpAHowijnxPhI=
 			</data>
 		</dict>
 		<key>Modules/HumanSignals.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>

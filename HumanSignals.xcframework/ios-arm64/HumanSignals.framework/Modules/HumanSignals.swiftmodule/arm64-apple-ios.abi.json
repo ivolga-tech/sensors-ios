@@ -718,6 +718,48 @@
       "value": "\"iOS\""
     },
     {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
+      "kind": "StringLiteral",
+      "offset": 1510,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
+      "kind": "StringLiteral",
+      "offset": 1519,
+      "length": 20,
+      "value": "\"user-\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
+      "kind": "StringLiteral",
+      "offset": 1538,
+      "length": 4,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
+      "kind": "StringLiteral",
+      "offset": 1541,
+      "length": 7,
+      "value": "\"email\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
+      "kind": "StringLiteral",
+      "offset": 1551,
+      "length": 31,
+      "value": "\"user\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/PostHogProxy.swift",
+      "kind": "StringLiteral",
+      "offset": 1569,
+      "length": 1,
+      "value": "\"@example.com\""
+    },
+    {
       "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/CryptoSecure.swift",
       "kind": "FloatLiteral",
       "offset": 334,
@@ -1059,6 +1101,13 @@
       "offset": 677,
       "length": 14,
       "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/pbaskov\/Development\/HumanSignalsSDK\/HumanSignals\/HumanSignals\/Networking\/Models\/EndpointKinds.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 10,
+      "value": "\"EMPTY!!!\""
     }
   ]
 }
